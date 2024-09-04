@@ -121,6 +121,13 @@ bash
 Copy code
 git push origin main
 
+### in simple terms
+Typical Workflow
+Make Changes: Edit your files as needed.
+Stage Changes: Use git add to stage changes.
+Commit Changes: Use git commit to save changes to your local repository.
+Push Changes: Use git push to upload commits to a remote repository
+
 ## Scenario 2: Forking a Repository, Making Changes, and Merging
 Here’s a step-by-step guide to forking a repository, making changes, and merging them back to the original repository:
 1. Fork the Repository
