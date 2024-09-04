@@ -1,4 +1,4 @@
-# GitTutorial
+# Git Tutorial
 ## Basic Git and GitHub Terms
 1. Repository (Repo):
 Definition: A repository is a storage space where your project’s files and their revision history are stored. On GitHub, a repo can be public or private.
